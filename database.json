@@ -1,22 +1,22 @@
 [
   {
-    "id": "765c9f5b-5a1d-4ffb-9073-93e3e64d32ff",
-    "title": "Кожаный",
-    "author": "Мешок",
-    "year": 2020,
-    "status": "В наличии"
+    "id": "5c0a06d9-7f76-4ed1-8c9c-8986b08e8b75",
+    "title": "Book 1",
+    "author": "Author 1",
+    "year": 2000,
+    "status": "в наличии"
   },
   {
-    "id": "59602424-61b1-4092-9b3a-f793c75ef5c6",
-    "title": "краники 22",
-    "author": "Стетхэм",
-    "year": 2019,
-    "status": "В наличии"
+    "id": "a6b97c7a-894e-4115-963a-a4819bb3dbca",
+    "title": "Book 2",
+    "author": "Author 2",
+    "year": 2001,
+    "status": "в наличии"
   },
   {
-    "id": "59666424-61b1-4092-9b3a-f793c75ef5c6",
-    "title": "Рептилоиды терпилы 2",
-    "author": "Бубылда",
+    "id": "38055808-4f5f-403f-810c-cf4ef8d5f553",
+    "title": "Book 1",
+    "author": "Author 1",
     "year": 2000,
     "status": "в наличии"
   }
